@@ -8,3 +8,5 @@ Este é um projeto simples para gerir uma lista de tarefas.
 - [ ] Estudar para o exame
 - [ ] Limpar o quarto
 - [ ] Limpar a sala
+- [ ] Fazer exercício
+- [ ] Ler um livro
