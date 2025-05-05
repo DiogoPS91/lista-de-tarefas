@@ -7,3 +7,4 @@ Este é um projeto simples para gerir uma lista de tarefas.
 - [ ] Comprar leite
 - [ ] Estudar para o exame
 - [ ] Limpar o quarto
+- [ ] Limpar a sala
