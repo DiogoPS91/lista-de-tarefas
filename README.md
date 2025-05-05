@@ -10,3 +10,4 @@ Este é um projeto simples para gerir uma lista de tarefas.
 - [ ] Limpar a sala
 - [ ] Fazer exercício
 - [ ] Ler um livro
+- [ ] Jogar Balatro
